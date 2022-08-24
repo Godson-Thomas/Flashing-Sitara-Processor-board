@@ -142,7 +142,7 @@
 
 * Check whether the server(PC) is responding.
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(21).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(21).png" width="500"><br><br>
 
 
 
@@ -163,9 +163,9 @@ run setup
 
 
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(23).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(23).png" width="500"><br><br>
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(24).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(24).png" width="500"><br><br>
 
 
 
@@ -178,7 +178,7 @@ run setup
 * Setting password for the Linux using Easy Connect.
 
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(25).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(25).png" width="500"><br><br>
 
 *  Open the easy connect
 *  **Devices** >> **SYNC261** >> **SYNC261-M1** >> **Add Device to Configuration**.
