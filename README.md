@@ -1,6 +1,6 @@
 ## _Flashing: Sitara Processor Board_
 
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Files.PNG" width="400">  <br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Files.PNG" width="650">  <br>
 
 
 
@@ -11,7 +11,7 @@
 4. Ethernet LAN Cable (Serial)
 5. Following files:
 
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/2_terminal.png" width="500">  <br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(1).png" width="650">  <br><br>
 
 # _HyperTerminal_
 
