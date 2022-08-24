@@ -1,6 +1,6 @@
 ## _Flashing: Sitara Processor Board_
 
-<img src="https://github.com/Godson-Thomas/Installing-.exe-files-in-Linux-Distribution/blob/master/Images/1_Wine.jpeg" width="400">  <br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Files.PNG" width="400">  <br>
 
 
 
