@@ -62,8 +62,6 @@
 <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(8).png" width="700"><br><br>
 
-
-
 * **_Transfer_** >> **_Send File_**
    - set _Protocol_ to _Y modem_.
 
