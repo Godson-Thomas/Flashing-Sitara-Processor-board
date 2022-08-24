@@ -1,6 +1,19 @@
 ## _Flashing: Sitara Processor Board_
 
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Files.PNG" width="650">  <br>
+
+&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Sitara.PNG" width="650">  <br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
