@@ -153,7 +153,7 @@
 * Run the _tftpd32_ with admin privilages.
 
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(22).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(22).png" width="550"><br><br>
 
 * Type the following command from the U-boot:
 ```
