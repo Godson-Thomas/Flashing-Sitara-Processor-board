@@ -11,7 +11,7 @@
 4. Ethernet LAN Cable (Serial)
 5. Following files:
 
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(1).png" width="650">  <br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Files.PNG" width="650">  <br><br>
 
 # _HyperTerminal_
 
@@ -21,7 +21,7 @@
 * **Connect the RS232 to USB converter** and Determine the port from the **Device Manager**.
 
 <br>
-<img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/S%20(1).png" width="650"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(1).png" width="650"" width="650"><br><br>
 
 
 * Open Hyperterminal.
