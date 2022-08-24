@@ -135,7 +135,7 @@
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(19).png" width="650"><br><br>
 
 
-     - set the ipaddress as follows.
+     - set the IP address as follows.
 
      <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(20).png" width="650"><br><br>
@@ -175,22 +175,21 @@ run setup
 
 # _Easy Connect_
 
-* Setting password for the Linux from Easy Connect.
+* Setting password for the Linux using Easy Connect.
 
 <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(25).png" width="650"><br><br>
-   
-    -  Open the easy connect
-    -  **Devices** >> **SYNC261-M1** >> **Add Device to Configuration**.
 
-    <br><br>
+*  Open the easy connect
+*  **Devices** >> **SYNC261-M1** >> **Add Device to Configuration**.
+<br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(26).png" width="650"><br><br>
 
 * Click on _IP Configuration_.
     <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(27).png" width="650"><br><br>
 
-* Set the Target (SYNC261) ip.
+* Set the Target (SYNC261) IP.
     <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(28).png" width="650"><br><br>
 
