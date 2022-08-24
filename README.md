@@ -103,7 +103,7 @@
   - set the serverip & ipaddr using the following commands.
 
 <br><br>
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(14).png" width="700"><br><br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(14).png" width="500"><br><br>
 
 * **Connect the LAN Cable**
 
