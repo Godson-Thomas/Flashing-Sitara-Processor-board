@@ -31,15 +31,15 @@
 <br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(2).png" width="700"><br><br>
 
-  - Select the port.
+  * Select the port.
 <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(3).png" width="700"><br><br>
 
-  - Set **Bits per second** to  _115200_ .
+  * Set **Bits per second** to  _115200_ .
 <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(4).png" width="700"><br><br>
 
-   - Since flash is empty, _CCCCC_ will be printed on the console.
+ * Since flash is empty, _CCCCC_ will be printed on the console.
 
 
 <br><br>
