@@ -20,7 +20,7 @@
 ----------------------------
 
 
-* **Connect the RS232 to USB converter** and Determine the port from the **Device Manager**.
+* **Connect the RS232 to USB converter** and find the port from the **Device Manager**.
 
 <br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(1).png" width="650"" width="650"><br><br>
@@ -97,7 +97,7 @@
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(13).png" width="650"><br><br>
 
 
-* **Connect the LAN Cable**
+
 
 
 * U-boot is accessible now.
@@ -106,6 +106,9 @@
 
 <br><br>
 <img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/S(14).png" width="650"><br><br>
+
+* **Connect the LAN Cable**
+
 
 * Windows Control Pannel
     
