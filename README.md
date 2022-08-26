@@ -4,9 +4,9 @@
 
 ## _Flashing: Sitara Processor Board_
 
-<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Sitara.PNG" width="150">  <br>
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Sitara.PNG" width="150">  <br><br>
 
-
+<img src="https://github.com/Godson-Thomas/Flashing-Sitara-Processor-board/blob/master/Comp.PNG" width="150">  <br>
 
 
 
